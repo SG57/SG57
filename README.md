@@ -1,4 +1,8 @@
-# SG57 Productions
+# SG57 Labs
+
+<p align="center">
+  <img src="./assets/sg57-glyph.svg" alt="SG57 glyph" width="140" />
+</p>
 
 **Developer tools for the modern workspace.**
 
@@ -20,4 +24,5 @@ I build desktop applications that solve real problems for developers and DevOps 
 
 - [sg57.dev](https://sg57.dev) — Studio website
 - [Blog](https://sg57.dev/blog) — Development updates and product launches
+- [External Avatar Rollout Checklist](./external-avatar-rollout-checklist.txt)
 

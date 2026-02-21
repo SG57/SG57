@@ -1,0 +1,7 @@
+SG57 Avatar External Rollout Checklist
+
+1. GitHub account avatar: upload assets/sg57-glyph.svg rendered to square PNG (1024x1024).
+2. LemonSqueezy storefront profile/logo: replace current avatar with SG57 glyph.
+3. SG57 social profiles (X/LinkedIn/YouTube/etc.): replace avatar and verify crop.
+4. App store/listing thumbnails: regenerate with SG57 glyph where applicable.
+5. Confirm visual consistency on dark/light backgrounds after upload.

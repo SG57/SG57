@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur"/>
+    </filter>
+  </defs>
+
+  <!--
+    Interlocking SG monogram — double-outline "hollow tube" letterforms.
+    S upper-left, G lower-right, interlocking at the mid-section.
+    The "57" is subtly embedded in the G's right-side arm and descender.
+  -->
+
+  <!-- Glow layer (blurred, reduced opacity) -->
+  <g opacity="0.35" filter="url(#glow)">
+    <g fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <!-- === S LETTERFORM (upper-left) === -->
+      <!-- S outer contour -->
+      <path d="
+        M 118,28
+        L 70,28
+        C 42,28 28,44 28,60
+        C 28,78 44,90 66,94
+        L 106,102
+        C 120,104 130,112 130,124
+        C 130,138 118,148 100,148
+        L 68,148
+      "/>
+      <!-- S inner contour -->
+      <path d="
+        M 112,42
+        L 72,42
+        C 52,42 42,52 42,62
+        C 42,74 52,82 70,85
+        L 108,92
+        C 126,96 142,106 142,124
+        C 142,144 126,160 100,160
+        L 62,160
+      "/>
+
+      <!-- === G LETTERFORM (lower-right, interlocking) === -->
+      <!-- G outer contour -->
+      <path d="
+        M 148,56
+        L 100,56
+        C 60,56 36,82 36,112
+        C 36,146 60,172 100,172
+        C 132,172 156,154 160,128
+        L 160,108
+        L 114,108
+      "/>
+      <!-- G inner contour -->
+      <path d="
+        M 142,68
+        L 102,68
+        C 70,68 50,88 50,112
+        C 50,140 70,160 100,160
+        C 124,160 144,146 148,126
+        L 148,118
+        L 120,118
+      "/>
+
+      <!-- === "57" embedded in G's arm === -->
+      <!-- The "7" — horizontal arm at top-right of G extending down -->
+      <path d="
+        M 148,56
+        L 168,56
+        L 154,88
+      "/>
+      <!-- The "5" — small form tucked into G's right side -->
+      <path d="
+        M 160,108
+        L 168,108
+        L 168,96
+        L 154,96
+        C 150,96 148,100 150,104
+      "/>
+    </g>
+  </g>
+
+  <!-- Crisp layer (sharp, full opacity) -->
+  <g fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <!-- === S LETTERFORM (upper-left) === -->
+    <!-- S outer contour -->
+    <path d="
+      M 118,28
+      L 70,28
+      C 42,28 28,44 28,60
+      C 28,78 44,90 66,94
+      L 106,102
+      C 120,104 130,112 130,124
+      C 130,138 118,148 100,148
+      L 68,148
+    "/>
+    <!-- S inner contour -->
+    <path d="
+      M 112,42
+      L 72,42
+      C 52,42 42,52 42,62
+      C 42,74 52,82 70,85
+      L 108,92
+      C 126,96 142,106 142,124
+      C 142,144 126,160 100,160
+      L 62,160
+    "/>
+
+    <!-- === G LETTERFORM (lower-right, interlocking) === -->
+    <!-- G outer contour -->
+    <path d="
+      M 148,56
+      L 100,56
+      C 60,56 36,82 36,112
+      C 36,146 60,172 100,172
+      C 132,172 156,154 160,128
+      L 160,108
+      L 114,108
+    "/>
+    <!-- G inner contour -->
+    <path d="
+      M 142,68
+      L 102,68
+      C 70,68 50,88 50,112
+      C 50,140 70,160 100,160
+      C 124,160 144,146 148,126
+      L 148,118
+      L 120,118
+    "/>
+
+    <!-- === "57" embedded in G's arm === -->
+    <!-- The "7" — top-right arm extending down diagonally -->
+    <path d="
+      M 148,56
+      L 168,56
+      L 154,88
+    "/>
+    <!-- The "5" — small form at G's crossbar area -->
+    <path d="
+      M 160,108
+      L 168,108
+      L 168,96
+      L 154,96
+      C 150,96 148,100 150,104
+    "/>
+  </g>
+</svg>
