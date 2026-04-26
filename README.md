@@ -34,5 +34,4 @@ Precision-engineered from architecture to deploy.
 
 - [sg57.dev](https://sg57.dev) — Studio website
 - [Blog](https://sg57.dev/blog) — Development updates and product launches
-- [External Avatar Rollout Checklist](./external-avatar-rollout-checklist.txt)
 
