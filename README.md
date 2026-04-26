@@ -1,12 +1,12 @@
 # SG57 Labs
 
 <p align="center">
-  <img src="./assets/sg57-glyph.svg" alt="SG57 glyph" width="140" />
+  <img src="./assets/sg57-glyph.png" alt="SG57 glyph" width="140" />
 </p>
 
-**Developer tools for the modern workspace.**
+**Desktop apps. Production web builds. Full-stack contracting.**
 
-I build desktop applications that solve real problems for developers and DevOps engineers. Everything ships as polished, native Electron apps — fast, offline-first, no subscription required.
+Precision-engineered from architecture to deploy.
 
 ---
 
@@ -17,6 +17,16 @@ I build desktop applications that solve real problems for developers and DevOps 
 
 **[Siftr](https://sg57.dev/siftr)** — Log Analysis System
 > 200MB log files in 3 seconds. Virtual scrolling, heatmap minimap, forensic reports, IIS-native parsing. Built for .NET/IIS environments.
+
+**[Text Easy](https://sg57.dev/text-easy)** — Intent-to-Text AI *(Android)*
+> AI-generated replies in your own voice. Share any text, pick your intent, choose a reply — done in seconds.
+
+---
+
+### Services
+
+**[Services](https://sg57.dev/services)** — Websites & Brand Identity
+> Premium websites, complete brand identity, and digital infrastructure for businesses that refuse to be invisible. Includes a free Digital Health Check.
 
 ---
 
